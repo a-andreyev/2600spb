@@ -67,10 +67,10 @@ pre {
 }
 
 header h1 {
-    background: url('logo-377x236.png') transparent no-repeat;
-    height: 236px;
+    background: url('logo-192x120.png') transparent no-repeat;
+    height: 120px;
     overflow: hidden;
-    width: 377px;
+    width: 192px;
     margin:auto;
     margin-top:20px;
 }
@@ -122,6 +122,6 @@ p {
 
 footer {
     padding:1em;
-    width: 11em;
+    width: 15em;
     margin:auto;
 }
